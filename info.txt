@@ -1,0 +1,4 @@
+Guevara Gurrola Juan Manuel
+03/02/2026
+Que el alumno practique el flujo completo de trabajo en GitHub partiendo desde cero: crear un repositorio nuevo, clonarlo, trabajar en una rama, realizar cambios y generar un Pull Request (PR).
+es una funcionalidad en plataformas de control de versiones como GitHub o Bitbucket que permite a los desarrolladores proponer cambios realizados en una rama de código 
